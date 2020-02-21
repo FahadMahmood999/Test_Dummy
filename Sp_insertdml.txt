@@ -28,4 +28,6 @@ EXCEPTION
         DBMS_OUTPUT.put_line('Error: ' || i ||
           ' Array Index: ' || SQL%BULK_EXCEPTIONS(i).error_index ||
           ' Message: ' || SQLERRM(-SQL%BULK_EXCEPTIONS(i).ERROR_CODE));
+/* END Stored Procedure */		  
+		  
 END LOOP;
