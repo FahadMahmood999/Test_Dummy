@@ -1,7 +1,4 @@
 *************Testing File 1 ***************************
 
-(Added by user1)
-
-
-(Added by user 2)
+--Select count(* from dual ---- Added by user 1
 
