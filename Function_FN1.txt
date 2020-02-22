@@ -28,6 +28,9 @@ type emp_obj is object (empno number, ename varchar2(10));
 --added by user 2 second time ----
 
 
+****Added by user 1****
+
+
 
 
 
