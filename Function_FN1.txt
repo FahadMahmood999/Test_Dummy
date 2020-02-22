@@ -21,7 +21,11 @@ type emp_tab is table of emp_obj;
 create or replace
 type emp_obj is object (empno number, ename varchar2(10));
 
+*********Changes made by user 1 ****************
 ---Changes made by user 2**************
+
+
+
 
 
 
