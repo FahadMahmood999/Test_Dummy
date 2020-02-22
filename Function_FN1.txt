@@ -27,6 +27,10 @@ type emp_obj is object (empno number, ename varchar2(10));
 
 
 
+*********Changes made by user 1 ****************
+
+
+
 
 
 
