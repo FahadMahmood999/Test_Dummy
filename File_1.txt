@@ -1,6 +1,6 @@
 *************Testing File 1 ***************************
 
---Select count(* from dual ---- Added by user 1
+Added by user 1
 
 
 ----------------------Select count(dep) from emp; -----addee by user 2.
