@@ -22,6 +22,9 @@ create or replace
 type emp_obj is object (empno number, ename varchar2(10));
 
 
+*/ ---- Changes made by USer 2  -----------------/*
+
+
 
 
 
