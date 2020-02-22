@@ -22,6 +22,7 @@ create or replace
 type emp_obj is object (empno number, ename varchar2(10));
 
 */ ---- Changes made by USer 1  -----------------/*
+*/ ---- Changes made by USer 1 second time -----------------/*
 
 
 --Select * fom dual;---(Added by user 2)
