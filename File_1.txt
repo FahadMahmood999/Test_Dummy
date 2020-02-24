@@ -3,4 +3,3 @@
 Added by user 1
 
 
-----------------------Select count(dep) from emp; -----addee by user 2.
